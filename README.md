@@ -1,3 +1,8 @@
-# Python Code Challenges I finished over on freeCodeCamp as part of their Beta certificate for Scientific Python. 
+
+# Scientific Computing with Python (Beta) challenged I have completed.
+
+## Python Code Challenges I finished over on freeCodeCamp as part of their Beta certificate for Scientific Python. 
 
 ## These scripts are here for demonstrative purposes to show learning-by-doing. 
+
+
